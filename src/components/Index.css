@@ -1,0 +1,11 @@
+#status {
+    display: flex;
+    flex-direction: row;
+}
+
+.status-option {
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    text-align: center;
+}
